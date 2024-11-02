@@ -1,7 +1,14 @@
-
+<!DOCTYPE html>
+<html lang="ko">
 <head>
     <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="!E=edge>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- meta -->
+  <meta property="og:url" content="https://www.ehdyd.co.kr/news/2411301830">
+  <meta property="og:title" content="한국문학번역원, 로스트 아크와 콜라보 이벤트 개최">
+  <meta property="og:type" content="website">
+  <meta property="og:image" content="공유시 보여질 이미지 경로">
 
     <title>NEWS</title>
     <style>
