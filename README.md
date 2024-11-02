@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html lang="ko">
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="!E=edge>
+    <meta charset="UTF-8">=
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <!-- meta -->
   <meta property="og:url" content="https://www.ehdyd.co.kr/news/2411301830">
